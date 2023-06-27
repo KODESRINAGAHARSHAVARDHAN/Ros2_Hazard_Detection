@@ -45,5 +45,6 @@ STEP6:-
 At last we need echo the topic /weapon_alert using the command ros2 topic echo <topic_name>. when given input object is scaned by camera it gives an alert as weapon detected!. 
 
 ## Usage:
-For Detecting the Hazard Object in the Environment
+For Detecting the Hazard Object in the Environment.
+
 Execution of code metioned above as Video
