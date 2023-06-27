@@ -33,14 +33,19 @@ Clone the repository:
 
 STEP1:-
 At first we need to do colcon build in the workspace. If this is successfull we will proceed furthur.
+
 STEP2:-
 Next we need to run the launch file using the command ros2 launch <package_name> <script_name>
+
 STEP3:-
 When we are running this code gazebo will run and for movementwe need to run teleop twist keyboard. To run this we need to give the command ros2 run teleop_twist_keyboad teleop_twist_keyboard
+
 STEP4:-
 After moving the robot, open the rviz using the command rviz2 in new terminal. Add the Image(by_topic) in bottom left.
+
 STEP5:-
 In the image the object detection using the opencv. we need to open new terminal and see all the topics by using the command ros2 topic list
+
 STEP6:-
 At last we need echo the topic /weapon_alert using the command ros2 topic echo <topic_name>. when given input object is scaned by camera it gives an alert as weapon detected!. 
 
