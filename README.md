@@ -11,8 +11,6 @@ This project aims to develop a mobile robot that can detect hazards in its envir
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
@@ -30,7 +28,7 @@ The robot will be equipped with a combination of sensors, such as LiDAR, cameras
 
 To install and set up the project, follow these steps:
 Clone the repository:
-   ```shell
+
    git clone https://github.com/your-username/hazard-detection-mobile-robot.git
 
 STEP1:-
@@ -45,3 +43,7 @@ STEP5:-
 In the image the object detection using the opencv. we need to open new terminal and see all the topics by using the command ros2 topic list
 STEP6:-
 At last we need echo the topic /weapon_alert using the command ros2 topic echo <topic_name>. when given input object is scaned by camera it gives an alert as weapon detected!. 
+
+## Usage:
+For Detecting the Hazard Object in the Environment
+Execution of code metioned above as Video
