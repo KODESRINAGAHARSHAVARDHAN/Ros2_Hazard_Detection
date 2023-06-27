@@ -29,6 +29,21 @@ The robot will be equipped with a combination of sensors, such as LiDAR, cameras
 ## Installation
 
 To install and set up the project, follow these steps:
+Clone the repository:
+   ```shell
+   git clone https://github.com/your-username/hazard-detection-mobile-robot.git
+
+STEP1:-
+
+STEP1:-
+
+STEP1:-
+
+STEP1:-
+
+STEP1:-
+
+STEP1:-
 
 
 
